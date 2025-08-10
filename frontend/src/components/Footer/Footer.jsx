@@ -26,16 +26,14 @@ const Footer = () => {
             </div>
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
-                <ul>
-                    <li>+91 6361529121</li>
-                    <li>umabharamanaikar@gmail.com</li>
-                </ul>
+                <li>Greencart@gmail.com</li>
+                
             </div>
            
         </div>
         <hr />
         <p className="footer-copyright">
-            Copyright 2024 &copy; Uma - All Right Reserved.
+            Copyright 2024 &copy; GreenCart - All Right Reserved.
         </p>
     </div>
   )
