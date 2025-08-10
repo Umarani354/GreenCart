@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url = 'http://localhost:4000';
+  const url = 'https://greencart-backend-76yi.onrender.com';
 
   return (
     <div>
